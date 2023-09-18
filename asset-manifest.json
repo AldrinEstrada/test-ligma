@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-ligma/static/css/main.fc5c2c69.css",
+    "main.js": "/test-ligma/static/js/main.4af3cd5b.js",
+    "index.html": "/test-ligma/index.html",
+    "main.fc5c2c69.css.map": "/test-ligma/static/css/main.fc5c2c69.css.map",
+    "main.4af3cd5b.js.map": "/test-ligma/static/js/main.4af3cd5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.4af3cd5b.js"
+  ]
+}
